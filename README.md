@@ -2,7 +2,7 @@
 
 1) This SMS Spam detection model is a Machine Learning application that classifies a SMS message as a spam or an authentic and intended message by a person(ham) by NLP techniques.
 
-2) It uses the TF-IDF technique for texr vectorization and then uses Naive Bayes's algorithm for the detection model.
+2) It uses the TF-IDF technique for texr vectorization and then uses Naive Bayes algorithm for the detection model.
 
 3) Uses Streamlit for a clean User Interface for displaying the detection
 
