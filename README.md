@@ -18,3 +18,6 @@
   streamlit run main.py
 ```
 3. The UI will be opened in the Browser you are using and its ready to be used.
+
+### Dataset:
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
