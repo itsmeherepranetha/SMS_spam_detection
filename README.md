@@ -1,4 +1,4 @@
-# SMS Spam detection model
+# SpamShield....A SMS Spam detection model
 
 1) This SMS Spam detection model is a Machine Learning application that classifies a SMS message as a spam or an authentic and intended message by a person(ham) by NLP techniques.
 
@@ -11,7 +11,7 @@
 1. Clone the repository.
 
 ```bash
-  git clone https://github.com/itsmeherepranetha/SMS_spam_detection.git
+  git clone https://github.com/itsmeherepranetha/SpamShield.git
 ```
 2. Open the folder using an Editor preferably PyCharm , or VS code and run the below command in the terminal.
 ```bash
